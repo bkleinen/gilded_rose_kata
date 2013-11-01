@@ -1,3 +1,9 @@
+
+This is a clone of the Gilded Rose Kata in Preparation for using it in the Class Info3 @ HTW Berlin.
+
+It might not be complete yet.
+
+
 # The Gilded Rose Code Kata
 
 This is a Ruby version of the Gilded Rose Kata, found
