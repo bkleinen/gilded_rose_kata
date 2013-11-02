@@ -1,3 +1,7 @@
+require 'json'
+require 'simplecov'
+SimpleCov.start
+
 require 'rspec/given'
 require 'gilded_rose'
 
