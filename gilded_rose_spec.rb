@@ -107,6 +107,7 @@ describe "#update_quality" do
 
         context "at max quality" do
           Given(:initial_quality) { 50 }
+          Then { item.quality.should == initial_quality }
         end
       end
 
